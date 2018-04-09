@@ -1,0 +1,9 @@
+{
+  ground: [
+    {start: 0, end: 10},
+    {start: 12, end: 15}
+  ],
+  bricks: [
+    {start: {x: 10, y: 2}, end: 5}
+  ]
+}
